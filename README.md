@@ -16,7 +16,7 @@ The goal of this project is to explore a customer dataset to identify key driver
 * **Visualization:** Matplotlib, Seaborn
 * **Statistical Analysis:** SciPy
 ## 📊 Visual Highlight
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap1.png)
 
 *Example of step 3: Visualizing the correlation 'Annual Income' segments.*
 
