@@ -20,4 +20,7 @@ The goal of this project is to explore a customer dataset to identify key driver
 1. Clone this repo: `git clone https://github.com/YOUR_USERNAME/customer-behavior-eda.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `eda_analysis.ipynb` to view the full analysis.
+
+correlation_heatmap.png
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hadi02-gif/customer-behavior-eda/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
