@@ -15,6 +15,10 @@ The goal of this project is to explore a customer dataset to identify key driver
 * **Python** (Pandas, NumPy)
 * **Visualization:** Matplotlib, Seaborn
 * **Statistical Analysis:** SciPy
+## 📊 Visual Highlight
+![Correlation Heatmap](correlation_heatmap.png)
+
+*Example of step 3: Visualizing the correlation 'Annual Income' segments.*
 
 ## 🚀 Quick Start
 1. Clone this repo: `git clone https://github.com/YOUR_USERNAME/customer-behavior-eda.git`
