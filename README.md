@@ -3,7 +3,7 @@ Exploratory Data Analysis to identify feature patterns, correlations, and statis
 # Exploratory Data Analysis: Customer Insights
 
 ## 📋 Project Objective
-The goal of this project is to explore a customer dataset to identify key drivers of spending behavior, examine statistical distributions, and uncover relationships between variables.
+The goal of this project is to explore a customer dataset to identify key drivers of spending behavior, examine statistical distributions, and uncover relationships between variables. So the initial question is what are the main characteristics that have the most impact on the customer spending score?
 
 ## 🔍 Analysis Workflow
 1. **Feature Patterns:** Using histograms and box plots to understand the distribution of individual variables (Age, Spending, etc.).
